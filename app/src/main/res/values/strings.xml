@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">The Pack</string>
+    <string name="local_db_name">thepackdb.db</string>
+    <string name="label_main">Home</string>
+    <string name="label_profile">Profile</string>
+    <string name="label_trips">Trips</string>
+    <string name="label_chat">Chat</string>
+    <string name="label_plans">Plans</string>
+    <string name="label_parks">Parks</string>
+    <string name="label_transportation">Transportation</string>
+    <string name="label_accommodation">Accommodation</string>
+    <string name="label_plan_icon">Plan Icon %1$s</string>
+</resources>
